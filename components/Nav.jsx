@@ -22,7 +22,7 @@ function Nav() {
 
 	return (
 		<nav className="flex justify-between w-full mb-16 pt-3">
-			<Link href="/" className="flex gap-2 justify-center">
+			<Link href="/" className="flex gap-2 justify-center items-center">
 				<Image
 					src="/assets/images/logo.svg"
 					alt="Promptipedia Logo"
